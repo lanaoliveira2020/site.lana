@@ -4,3 +4,7 @@ body{background-color: rgba(149, 73, 221, 0.76);
 P{
    text-align: center;
    }
+
+   #banner{
+      width: 100%;
+   }
