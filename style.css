@@ -1,7 +1,11 @@
-P{
+P {
    text-align: center;
 }
 
-body{
+body {
    background-color: rgba(183, 125, 238, 0.61);
+}
+#banner{
+size: 5cm ;
+width:5cm ;
 }
