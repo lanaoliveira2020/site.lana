@@ -1,12 +1,7 @@
-P {
-   text-align: center;
+body{
+   background-color: rgba(149, 73, 221, 0.76);
 }
 
-body {
-   font-size: 17 px;
-   background-color: aquamarine;
-}
-#banner{
- 
- 
-}
+P{
+   text-align: center;
+   }
