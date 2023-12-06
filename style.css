@@ -1,11 +1,16 @@
-head{background-color: rgba(149, 73, 221, 0.76);
+  body{
+    background-color: #8a2be8
+   }
+
+h1{
+   style="text-align: center;"
 }
 
-P{
+p{
    text-align: center;
-   }
+}
 
-   #banner{
-      width:50%;
-      height: 100px;
-   }
+em strong{
+color: FF0000;
+
+}
